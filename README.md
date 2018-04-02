@@ -7,8 +7,7 @@ It comes with multiple features like private messaging, Ask Guru, user set prior
 ---------------------------------------------------------------------------
 
 Type of site: Forum
-############################################################################
-
+**************************************************************************
 Key Functions:
 •	A post/comment system similar to Reddit or Quora.
 •	An upvote system for both posts and comments
